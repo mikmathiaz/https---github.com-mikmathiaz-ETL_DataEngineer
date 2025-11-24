@@ -1,0 +1,15 @@
+# Ignorar o backup gigante
+*.bak
+
+# Ignorar logs e arquivos temporários do Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Ignorar arquivos de ambiente (segurança)
+.env
+.wslconfig
+
+# Ignorar pastas de logs do Airflow (são pesadas)
+logs/
+plugins/
