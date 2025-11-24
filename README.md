@@ -97,6 +97,3 @@ Requisitos: Docker e Docker Desktop instalados.
 5.  **Acessar o Airflow:**
     Navegar para `http://localhost:8080` (Login: `airflow` / `airflow`) e ativar a DAG.
 
----
-
-**Nota:** Este projeto foi desenvolvido com foco acadêmico para demonstrar a proficiência em ferramentas de Engenharia de Dados.
